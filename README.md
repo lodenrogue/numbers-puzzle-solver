@@ -2,7 +2,7 @@
 
 ## Usage
 
-python3 numbers.py <numbers> <goal>
+python3 numbers.py numbers goal
 
 Example Input:
 
